@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools", // C++ extension for debugging and IntelliSense
+        "shd101wyy.markdown-preview-enhanced" // Markdown Preview Enhanced for better README rendering
+    ]
+}
