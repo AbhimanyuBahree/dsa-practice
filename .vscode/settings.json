@@ -1,4 +1,10 @@
 {
     "C_Cpp.clang_format_fallbackStyle": "Microsoft",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    }
 }
